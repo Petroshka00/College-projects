@@ -1,7 +1,7 @@
 # College-projects
 A collection of all my college projects that i've worked on along the years, at the Universidad de Buenos Aires.
 
-All files are written in spanish as it was needed for the projects themselves, under here you can find an explanation of each project.
+Some files are written in spanish as it was needed for the projects themselves, under here you can find an explanation of each project.
 
 TP 1/2:
   A rather simple game that starts with 5 trivia questions about disney/pixar movies or series, answering all 5 correctly will have an impact on the second part of the game, three of the questions are multiple choice, another one is answering a question with an specific number and another is answered by inputting 5 numbers, which all must be primes.
